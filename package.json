@@ -1,0 +1,22 @@
+{
+  "name": "ask-out",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bireswarroychowdhury29/Ask-Out.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bireswarroychowdhury29/Ask-Out/issues"
+  },
+  "homepage": "https://github.com/Bireswarroychowdhury29/Ask-Out#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
